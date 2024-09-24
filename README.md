@@ -1,2 +1,3 @@
-# advanced-passgen
-A advanced Python password generator tool.
+# Advanced Password Generator
+
+DO NOT DELETE "data" FILE! It needs for password generation.
